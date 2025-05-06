@@ -5,7 +5,7 @@ def palindrome(given): #function definition
         return f"'{given}' is a palindrome" #output if true
     else:
 
-        return f"'{given}' is not a palindrome" #output if fals
+        return f"'{given}' is not a palindrome" #output if false
 
 user_input=input("Enter the string to check palindrome:") #taking input from user
 
